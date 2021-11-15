@@ -1,3 +1,3 @@
 # boilerplate
 
-React Native Boilerplate Nov 2021 Expo
+React Native Boilerplate with MobX Nov 2021 Expo
